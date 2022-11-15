@@ -1,0 +1,6 @@
+apiVersion: "rinaldo.dev/v1alpha1"
+kind: Aplicacao
+metadata:
+  name: ola-quarkus
+spec:
+  imagem: 'claprun/hello:1.0.0-SNAPSHOT'
